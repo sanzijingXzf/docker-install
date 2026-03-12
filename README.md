@@ -1,6 +1,8 @@
 # docker-install
 docker一键安装脚本说明
 
+源代码参考：https://xuanyuan.cloud/docker.sh
+
 
 **操作步骤：**
 
@@ -115,5 +117,3 @@ docker一键安装脚本说明
     docker version
     docker run hello-world
     ```
-
-源代码参考：https://xuanyuan.cloud/docker.sh
